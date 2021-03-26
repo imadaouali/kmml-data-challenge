@@ -1,4 +1,5 @@
 # Machine learning with kernel methods 2021
+### Ali MOURTADA - Abdellah RAHMANI - Imad AOUALI
 
 ###  Main file
 To reproduce the submission file, please run: `python start.py`
